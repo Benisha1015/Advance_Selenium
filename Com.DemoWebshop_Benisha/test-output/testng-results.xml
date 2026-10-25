@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-24T10:37:06 IST" name="Suite" finished-at="2026-10-24T10:38:32 IST" duration-ms="86110">
+    <groups>
+    </groups>
+    <test started-at="2026-10-24T10:37:06 IST" name="Test" finished-at="2026-10-24T10:38:32 IST" duration-ms="86110">
+      <class name="com.DemoWebShop_TestScripts.Tc_002_verify_is_able_to_deleteaddress_or_not_Test">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_002_verify_is_able_to_deleteaddress_or_not_Test@4f6ee6e4]" started-at="2026-10-24T10:37:33 IST" name="beforeclass" finished-at="2026-10-24T10:37:39 IST" duration-ms="5666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_002_verify_is_able_to_deleteaddress_or_not_Test@4f6ee6e4]" started-at="2026-10-24T10:37:39 IST" name="beforeMethod" finished-at="2026-10-24T10:37:41 IST" duration-ms="2467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="deleteAddress()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_002_verify_is_able_to_deleteaddress_or_not_Test@4f6ee6e4]" started-at="2026-10-24T10:37:41 IST" name="deleteAddress" finished-at="2026-10-24T10:38:04 IST" duration-ms="22856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAddress -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_002_verify_is_able_to_deleteaddress_or_not_Test@4f6ee6e4]" started-at="2026-10-24T10:38:04 IST" name="afterMethod" finished-at="2026-10-24T10:38:06 IST" duration-ms="1530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_002_verify_is_able_to_deleteaddress_or_not_Test@4f6ee6e4]" started-at="2026-10-24T10:38:06 IST" name="afterclass" finished-at="2026-10-24T10:38:07 IST" duration-ms="1190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.DemoWebShop_TestScripts.Tc_002_verify_is_able_to_deleteaddress_or_not_Test -->
+      <class name="com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:37:06 IST" name="beforesuite" finished-at="2026-10-24T10:37:06 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:37:06 IST" name="beforeTest" finished-at="2026-10-24T10:37:07 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:37:07 IST" name="beforeclass" finished-at="2026-10-24T10:37:13 IST" duration-ms="6754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:37:13 IST" name="beforeMethod" finished-at="2026-10-24T10:37:16 IST" duration-ms="2507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="placeorder()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:37:16 IST" name="placeorder" finished-at="2026-10-24T10:37:31 IST" duration-ms="15080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeorder -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:37:31 IST" name="afterMethod" finished-at="2026-10-24T10:37:33 IST" duration-ms="1478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:37:33 IST" name="afterclass" finished-at="2026-10-24T10:37:33 IST" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:38:32 IST" name="aftertest" finished-at="2026-10-24T10:38:32 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuit()[pri:0, instance:com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test@5ffead27]" started-at="2026-10-24T10:38:32 IST" name="aftersuit" finished-at="2026-10-24T10:38:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- com.DemoWebShop_TestScripts.Tc_003_Verify_User_is_able_to_place_order_Test -->
+      <class name="com.DemoWebShop_TestScripts.TC_001_Verify_User_is_able_to_add_address_or_not_Test">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.DemoWebShop_TestScripts.TC_001_Verify_User_is_able_to_add_address_or_not_Test@4466af20]" started-at="2026-10-24T10:38:07 IST" name="beforeclass" finished-at="2026-10-24T10:38:18 IST" duration-ms="10816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.DemoWebShop_TestScripts.TC_001_Verify_User_is_able_to_add_address_or_not_Test@4466af20]" started-at="2026-10-24T10:38:18 IST" name="beforeMethod" finished-at="2026-10-24T10:38:21 IST" duration-ms="3518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addAddress()[pri:0, instance:com.DemoWebShop_TestScripts.TC_001_Verify_User_is_able_to_add_address_or_not_Test@4466af20]" started-at="2026-10-24T10:38:21 IST" name="addAddress" finished-at="2026-10-24T10:38:30 IST" duration-ms="8432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddress -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.DemoWebShop_TestScripts.TC_001_Verify_User_is_able_to_add_address_or_not_Test@4466af20]" started-at="2026-10-24T10:38:30 IST" name="afterMethod" finished-at="2026-10-24T10:38:31 IST" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.DemoWebShop_TestScripts.TC_001_Verify_User_is_able_to_add_address_or_not_Test@4466af20]" started-at="2026-10-24T10:38:31 IST" name="afterclass" finished-at="2026-10-24T10:38:32 IST" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.DemoWebShop_TestScripts.TC_001_Verify_User_is_able_to_add_address_or_not_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

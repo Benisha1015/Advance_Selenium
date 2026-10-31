@@ -59,13 +59,13 @@ public class BaseTest {
 		System.out.println("Before class----Lanch browser");
 		
 		//to run for command prompt we been using these two line for pararmeters
-		//String browser=System.getProperty("browserName");
-		//String url=System.getProperty("baseUrl");
+		String browser=System.getProperty("browserName");
+		String url=System.getProperty("baseUrl");
 		//we cannot use this to lines in the eclipse to run
 		
 
-		String browser = fileUtility.readDataFromPropertyFile("browsername");
-		String url = fileUtility.readDataFromPropertyFile("url");
+		//String browser = fileUtility.readDataFromPropertyFile("browsername");
+		//String url = fileUtility.readDataFromPropertyFile("url");
 
 		if (browser.equalsIgnoreCase("Chrome")) {
 			System.out.println("Running Test on chrome browser");
